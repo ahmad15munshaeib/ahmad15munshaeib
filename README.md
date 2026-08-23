@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Who I Am
 
 ```typescript
-const munshaeibAhmad = {
+const Munshaeib Ahmad = {
   title: "Full Stack Developer (MERN) | IT Student",
   stack: {
     languages: ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
