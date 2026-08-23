@@ -21,7 +21,7 @@
 
 ```typescript
 const munshaeibAhmad = {
-  title: "Full Stack Developer (MERN) | CS Student",
+  title: "Full Stack Developer (MERN) | IT Student",
   stack: {
     languages: ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
     frontend: ["React.js"],
