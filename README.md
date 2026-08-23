@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Munshaeib%20Ahmad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Munshaeib%20Ahmad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ahmad15munshaeib">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Doctor+Appointment+Booking+System+-+Consult-Practo;Real-Time+Chat+App+with+Socket.IO;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
