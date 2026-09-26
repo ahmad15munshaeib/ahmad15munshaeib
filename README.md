@@ -60,46 +60,90 @@ const munshaeibAhmad = {
 
 ### 🏥 Consult-Practo — Doctor Appointment Booking System
 
-A full-stack MERN-based doctor appointment booking platform designed to simplify healthcare scheduling. The system allows users to explore doctors, book appointments, manage schedules, and make secure online payments through Razorpay. It also includes REST APIs and admin functionality for managing doctors, appointments, users, and bookings.
+<table>
+<tr>
+<td width="65%">
 
-<div align="center">
+<h3>🏥 Consult-Practo</h3>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmad15munshaeib&repo=Consult-Practo&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Consult-Practo Repo Card"/>
+<p>
+A full-stack MERN-based doctor appointment booking platform designed to simplify healthcare scheduling. Users can explore doctors, book appointments, manage bookings, and make secure online payments through Razorpay.
+</p>
 
-</div>
+<p>
+The platform also provides REST APIs and administrative functionality for managing users, doctors, appointments, schedules, and bookings.
+</p>
 
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Payments | Razorpay |
-| API | REST APIs |
+<p>
+<b>Frontend:</b> React.js<br/>
+<b>Backend:</b> Node.js, Express.js<br/>
+<b>Database:</b> MongoDB<br/>
+<b>Payments:</b> Razorpay<br/>
+<b>API:</b> REST APIs
+</p>
 
-🔗 [View Code](https://github.com/ahmad15munshaeib/Consult-Practo)
+<a href="https://github.com/ahmad15munshaeib/Consult-Practo">
+<img src="https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
+</a>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" width="220"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Razorpay-7dd3fc?style=for-the-badge&logo=razorpay&logoColor=black" alt="Razorpay"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ### 💬 Chat Box — Real-Time Chat Application
 
-A real-time full-stack chat application built with the MERN stack and Socket.IO for instant two-way communication. The application implements JWT-based authentication, password hashing, user profiles, real-time messaging, and WebSocket-based communication to provide a responsive and secure chatting experience.
+<table>
+<tr>
+<td width="65%">
 
-<div align="center">
+<h3>💬 Chat Box</h3>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmad15munshaeib&repo=Chat-Box&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Chat Box Repo Card"/>
+<p>
+A real-time full-stack chat application built using the MERN stack and Socket.IO for instant two-way communication between users.
+</p>
 
-</div>
+<p>
+The application includes JWT-based authentication, secure password hashing, user profiles, real-time messaging, and WebSocket-based communication to provide a responsive and secure chatting experience.
+</p>
 
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Authentication | JWT |
-| Real-Time | Socket.IO |
-| Security | Password Hashing |
+<p>
+<b>Frontend:</b> React.js<br/>
+<b>Backend:</b> Node.js, Express.js<br/>
+<b>Database:</b> MongoDB<br/>
+<b>Authentication:</b> JWT<br/>
+<b>Real-Time:</b> Socket.IO<br/>
+<b>Security:</b> Password Hashing
+</p>
 
-🔗 [View Code](https://github.com/ahmad15munshaeib/Chat-Box)
+<a href="https://github.com/ahmad15munshaeib/Chat-Box">
+<img src="https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="View Code"/>
+</a>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,socketio" width="240"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JWT-7dd3fc?style=for-the-badge&logo=jsonwebtokens&logoColor=black" alt="JWT"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -147,7 +191,7 @@ A real-time full-stack chat application built with the MERN stack and Socket.IO 
 
 <div align="center">
 
-<img src="https://github-profile-svg.vercel.app/api/profile?username=ahmad15munshaeib&mode=glass&theme=dark" alt="GitHub Trophies"/>
+<img src="https://github-profile-svg.vercel.app/api/profile?username=ahmad15munshaeib&mode=glass&theme=dark&v=2" alt="GitHub Trophies"/>
 
 </div>
 
